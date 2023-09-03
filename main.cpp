@@ -24,7 +24,8 @@ int main(){
             cin>>x;
             put(x,arr);
         }
-
+         //Question logic starts here
+         
 
 
 
